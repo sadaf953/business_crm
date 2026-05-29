@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/business-crm/', // REPLACE 'business-crm' with your actual repo name
+  base: '/business_crm/', 
 })

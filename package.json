@@ -10,6 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://sadaf953.github.io/business_crm",
   "dependencies": {
     "@supabase/supabase-js": "^2.106.2",
     "lucide-react": "^1.16.0",
